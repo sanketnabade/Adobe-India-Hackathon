@@ -1,0 +1,428 @@
+{
+  "metadata": {
+    "filename": "file01.pdf",
+    "pages": 1
+  },
+  "content": [
+    {
+      "text": "Application form for grant of LTC advance",
+      "page": 1,
+      "bbox": [
+        199.86,
+        722.9,
+        437.19,
+        734.57
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name of the Government Servant",
+      "page": 1,
+      "bbox": [
+        96.0,
+        697.26,
+        243.44,
+        707.0
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Designation",
+      "page": 1,
+      "bbox": [
+        96.0,
+        679.2,
+        149.33,
+        688.94
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Date  of  entering  the  Central  Government",
+      "page": 1,
+      "bbox": [
+        96.0,
+        661.08,
+        296.02,
+        670.83
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Service",
+      "page": 1,
+      "bbox": [
+        96.0,
+        643.51,
+        129.73,
+        653.25
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "PAY + SI + NPA",
+      "page": 1,
+      "bbox": [
+        96.0,
+        625.39,
+        168.89,
+        635.14
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "5.  Whether permanent or temporary",
+      "page": 1,
+      "bbox": [
+        70.02,
+        604.33,
+        244.1,
+        617.08
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Home Town as recorded in the Service Book",
+      "page": 1,
+      "bbox": [
+        96.0,
+        589.15,
+        289.53,
+        598.9
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Whether  wife  /  husband  is  employed  and  if",
+      "page": 1,
+      "bbox": [
+        96.0,
+        576.97,
+        295.95,
+        586.72
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "so whether entitled to LTC",
+      "page": 1,
+      "bbox": [
+        96.0,
+        559.39,
+        212.83,
+        569.14
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Whether  the  concession  is  to  be  availed  for",
+      "page": 1,
+      "bbox": [
+        96.0,
+        541.27,
+        295.95,
+        551.01
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "visiting home  town and  if  so block for  which",
+      "page": 1,
+      "bbox": [
+        96.0,
+        523.69,
+        296.05,
+        533.43
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "LTC is to be availed.",
+      "page": 1,
+      "bbox": [
+        96.0,
+        506.05,
+        186.05,
+        515.8
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "(a)  If  the  concession  is  to  visit  anywhere  in",
+      "page": 1,
+      "bbox": [
+        96.0,
+        487.99,
+        296.01,
+        497.74
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "India, the place to be visited.",
+      "page": 1,
+      "bbox": [
+        96.0,
+        470.36,
+        224.38,
+        480.1
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "(b) Block for which to be availed.",
+      "page": 1,
+      "bbox": [
+        96.0,
+        452.78,
+        241.29,
+        462.52
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Single",
+      "page": 1,
+      "bbox": [
+        96.0,
+        434.65,
+        124.84,
+        444.4
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "rail",
+      "page": 1,
+      "bbox": [
+        136.14,
+        434.65,
+        152.31,
+        444.4
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "fare",
+      "page": 1,
+      "bbox": [
+        213.71,
+        434.65,
+        233.51,
+        444.4
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "from",
+      "page": 1,
+      "bbox": [
+        244.84,
+        434.65,
+        267.94,
+        444.4
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "the",
+      "page": 1,
+      "bbox": [
+        279.24,
+        434.65,
+        296.08,
+        444.4
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "headquarters  to  home  town/place  of  visit  by",
+      "page": 1,
+      "bbox": [
+        96.0,
+        417.08,
+        296.01,
+        426.82
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "shortest route.",
+      "page": 1,
+      "bbox": [
+        96.0,
+        399.5,
+        161.99,
+        409.24
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Persons in respect of whom LTC is proposed to be availed.",
+      "page": 1,
+      "bbox": [
+        96.0,
+        381.31,
+        350.76,
+        391.06
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Name",
+      "page": 1,
+      "bbox": [
+        211.41,
+        366.19,
+        242.72,
+        375.93
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Age",
+      "page": 1,
+      "bbox": [
+        343.48,
+        366.19,
+        364.94,
+        375.93
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Relationship",
+      "page": 1,
+      "bbox": [
+        444.58,
+        366.19,
+        508.57,
+        375.93
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Amount of advance required.",
+      "page": 1,
+      "bbox": [
+        96.01,
+        269.12,
+        223.99,
+        278.86
+      ],
+      "type": "h3",
+      "confidence": 1.0
+    },
+    {
+      "text": "I  declare  that  the  particulars  furnished  above  are  true  and  correct  to  the  best  of  my  knowledge.",
+      "page": 1,
+      "bbox": [
+        105.07,
+        233.41,
+        553.92,
+        243.16
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "I",
+      "page": 1,
+      "bbox": [
+        561.3,
+        233.41,
+        573.18,
+        243.16
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
+      "page": 1,
+      "bbox": [
+        70.03,
+        221.71,
+        499.66,
+        231.45
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "In  the  event  of  cancellation  of  the  journey  or  if  I  fail  to  produce  the  tickets  within  ten  days  of  receipt of",
+      "page": 1,
+      "bbox": [
+        105.08,
+        198.19,
+        573.17,
+        207.93
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "advance, I undertake to refund the entire advance in one lump sum.",
+      "page": 1,
+      "bbox": [
+        70.04,
+        186.43,
+        367.66,
+        196.17
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Date",
+      "page": 1,
+      "bbox": [
+        70.04,
+        151.27,
+        95.88,
+        161.01
+      ],
+      "type": "h3",
+      "confidence": 1.0
+    },
+    {
+      "text": "Signature of Government Servant.",
+      "page": 1,
+      "bbox": [
+        403.04,
+        139.51,
+        572.98,
+        149.25
+      ],
+      "type": "h3",
+      "confidence": 1.0
+    }
+  ]
+}

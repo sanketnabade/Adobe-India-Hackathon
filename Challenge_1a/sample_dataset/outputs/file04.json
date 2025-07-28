@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "filename": "file04.pdf",
+    "pages": 1
+  },
+  "content": [
+    {
+      "text": "Parsippany -Troy Hills STEM Pathways",
+      "page": 1,
+      "bbox": [
+        125.82,
+        726.62,
+        562.15,
+        754.63
+      ],
+      "type": "title",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mission Statement:  To provide PTHSD high school students with the opportunity to",
+      "page": 1,
+      "bbox": [
+        80.33,
+        685.87,
+        514.23,
+        702.56
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "concentrate their studies, beyond those required in high school, in the areas of science,",
+      "page": 1,
+      "bbox": [
+        80.33,
+        671.25,
+        507.52,
+        683.25
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "technology, engineering, and mathematics, and expose students to relevant real world",
+      "page": 1,
+      "bbox": [
+        80.33,
+        656.99,
+        503.04,
+        669.0
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "experiences through project work, conferences and presentations to enhance their high school",
+      "page": 1,
+      "bbox": [
+        80.33,
+        642.74,
+        543.8,
+        654.74
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "• Inspire keen interest in mathematics, science, engineering, and",
+      "page": 1,
+      "bbox": [
+        41.38,
+        569.22,
+        341.4,
+        581.19
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "technology, develop strong scholarship in the subject and",
+      "page": 1,
+      "bbox": [
+        45.41,
+        555.71,
+        315.14,
+        567.22
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "promote the enjoyment of these studies in high school.",
+      "page": 1,
+      "bbox": [
+        45.41,
+        542.2,
+        303.29,
+        553.71
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "• Expose students to potential career opportunities in the field.",
+      "page": 1,
+      "bbox": [
+        41.38,
+        528.69,
+        334.77,
+        540.66
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "• Encourage students to pursue higher education and major in",
+      "page": 1,
+      "bbox": [
+        41.38,
+        515.18,
+        332.76,
+        527.15
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "STEM careers.",
+      "page": 1,
+      "bbox": [
+        45.41,
+        501.67,
+        111.06,
+        513.18
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "• Promote interactions with STEM professionals to learn about",
+      "page": 1,
+      "bbox": [
+        39.68,
+        488.16,
+        334.1,
+        499.67
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "future opportunities.",
+      "page": 1,
+      "bbox": [
+        45.41,
+        474.65,
+        143.41,
+        486.16
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "• Support field experiences connected to the world outside of",
+      "page": 1,
+      "bbox": [
+        39.68,
+        461.14,
+        330.74,
+        472.65
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "the school building.",
+      "page": 1,
+      "bbox": [
+        45.41,
+        447.63,
+        136.77,
+        459.14
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "• Signal to employers, universities, training programs, and",
+      "page": 1,
+      "bbox": [
+        39.68,
+        434.12,
+        311.8,
+        445.62
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "military that a student has completed a comprehensive course",
+      "page": 1,
+      "bbox": [
+        45.41,
+        420.6,
+        338.53,
+        432.11
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "of study in a specialized area.",
+      "page": 1,
+      "bbox": [
+        45.41,
+        407.09,
+        181.78,
+        418.6
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "• Cultivate transferable work habits such as perseverance, goal",
+      "page": 1,
+      "bbox": [
+        39.68,
+        393.58,
+        334.53,
+        405.09
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "setting, and self-direction.",
+      "page": 1,
+      "bbox": [
+        45.41,
+        380.07,
+        167.17,
+        391.58
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "PATHWAY OPTIONS",
+      "page": 1,
+      "bbox": [
+        240.18,
+        334.77,
+        365.14,
+        350.07
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "REGULAR PATHWAY",
+      "page": 1,
+      "bbox": [
+        117.18,
+        308.94,
+        242.1,
+        324.25
+      ],
+      "type": "h2",
+      "confidence": 1.0
+    },
+    {
+      "text": "4 credits of Math",
+      "page": 1,
+      "bbox": [
+        99.44,
+        278.56,
+        180.74,
+        289.57
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "4 credits of Science",
+      "page": 1,
+      "bbox": [
+        99.44,
+        265.05,
+        195.42,
+        276.06
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "4 credits of STEM-designated electives",
+      "page": 1,
+      "bbox": [
+        99.44,
+        251.54,
+        290.19,
+        262.55
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "●",
+      "page": 1,
+      "bbox": [
+        74.78,
+        278.56,
+        81.43,
+        289.57
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "●",
+      "page": 1,
+      "bbox": [
+        74.78,
+        265.05,
+        81.43,
+        276.06
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "●",
+      "page": 1,
+      "bbox": [
+        74.78,
+        251.54,
+        81.43,
+        262.55
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "● Maintain an overall 2.85 GPA",
+      "page": 1,
+      "bbox": [
+        74.78,
+        238.03,
+        241.69,
+        249.04
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "●",
+      "page": 1,
+      "bbox": [
+        74.78,
+        224.52,
+        81.43,
+        235.53
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Participate in a minimum of 3 STEM",
+      "page": 1,
+      "bbox": [
+        99.44,
+        224.52,
+        277.9,
+        235.53
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "presentations/conferences each year",
+      "page": 1,
+      "bbox": [
+        99.44,
+        211.01,
+        282.91,
+        222.02
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "with a required minimum total of 12",
+      "page": 1,
+      "bbox": [
+        99.44,
+        197.51,
+        273.67,
+        208.51
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "presentations/conferences throughout",
+      "page": 1,
+      "bbox": [
+        99.44,
+        184.0,
+        287.19,
+        195.0
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "the 4 years. *",
+      "page": 1,
+      "bbox": [
+        99.44,
+        170.49,
+        164.24,
+        181.49
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Join and actively participate in a",
+      "page": 1,
+      "bbox": [
+        99.44,
+        156.98,
+        258.41,
+        167.99
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "STEM-related extracurricular activity or",
+      "page": 1,
+      "bbox": [
+        99.44,
+        143.47,
+        292.6,
+        154.48
+      ],
+      "type": "h3",
+      "confidence": 1.0
+    },
+    {
+      "text": "club every year of attendance. -",
+      "page": 1,
+      "bbox": [
+        99.44,
+        129.96,
+        256.57,
+        140.97
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "●",
+      "page": 1,
+      "bbox": [
+        74.78,
+        156.98,
+        81.43,
+        167.99
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "●",
+      "page": 1,
+      "bbox": [
+        320.77,
+        296.57,
+        327.42,
+        307.58
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "●",
+      "page": 1,
+      "bbox": [
+        320.78,
+        269.55,
+        327.42,
+        280.56
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "●",
+      "page": 1,
+      "bbox": [
+        320.78,
+        229.03,
+        327.42,
+        240.03
+      ],
+      "type": "h3",
+      "confidence": 1.0
+    },
+    {
+      "text": "DISTINCTION PATHWAY",
+      "page": 1,
+      "bbox": [
+        351.72,
+        308.94,
+        499.5,
+        324.25
+      ],
+      "type": "h3",
+      "confidence": 1.0
+    },
+    {
+      "text": "4 credits of Math - At least one math",
+      "page": 1,
+      "bbox": [
+        345.43,
+        296.57,
+        524.52,
+        307.58
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "course should be an AP Math class.",
+      "page": 1,
+      "bbox": [
+        345.43,
+        283.06,
+        520.11,
+        294.07
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "4 credits of Science- At least one",
+      "page": 1,
+      "bbox": [
+        345.43,
+        269.55,
+        508.65,
+        280.56
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "science course should be an AP",
+      "page": 1,
+      "bbox": [
+        345.43,
+        256.04,
+        504.84,
+        267.05
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Science class.",
+      "page": 1,
+      "bbox": [
+        345.43,
+        242.53,
+        415.75,
+        253.54
+      ],
+      "type": "h3",
+      "confidence": 1.0
+    },
+    {
+      "text": "4 credits of STEM-designated electives",
+      "page": 1,
+      "bbox": [
+        345.43,
+        229.03,
+        539.23,
+        240.03
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "- One must be a Computer",
+      "page": 1,
+      "bbox": [
+        345.43,
+        215.52,
+        478.7,
+        226.52
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Science/Technology Class",
+      "page": 1,
+      "bbox": [
+        345.43,
+        202.01,
+        473.87,
+        213.02
+      ],
+      "type": "h3",
+      "confidence": 1.0
+    },
+    {
+      "text": "● Maintain an overall 3.5 GPA",
+      "page": 1,
+      "bbox": [
+        320.78,
+        188.5,
+        484.01,
+        199.51
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "●",
+      "page": 1,
+      "bbox": [
+        320.78,
+        174.99,
+        327.43,
+        186.0
+      ],
+      "type": "h3",
+      "confidence": 1.0
+    },
+    {
+      "text": "Participate in a minimum of 3 STEM",
+      "page": 1,
+      "bbox": [
+        345.43,
+        174.99,
+        523.9,
+        186.0
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "presentations/conferences a year with a",
+      "page": 1,
+      "bbox": [
+        345.43,
+        161.48,
+        542.94,
+        172.49
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "required minimum total of 12",
+      "page": 1,
+      "bbox": [
+        345.43,
+        147.97,
+        487.88,
+        158.98
+      ],
+      "type": "h3",
+      "confidence": 1.0
+    },
+    {
+      "text": "presentations/conferences throughout",
+      "page": 1,
+      "bbox": [
+        345.43,
+        134.46,
+        533.19,
+        145.47
+      ],
+      "type": "h3",
+      "confidence": 1.0
+    },
+    {
+      "text": "the 4 years.",
+      "page": 1,
+      "bbox": [
+        345.43,
+        120.95,
+        402.9,
+        131.96
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Join and actively participate in a",
+      "page": 1,
+      "bbox": [
+        345.43,
+        107.44,
+        504.4,
+        118.45
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "STEM-related extracurricular activity or",
+      "page": 1,
+      "bbox": [
+        345.43,
+        93.94,
+        538.59,
+        104.94
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "club every year of attendance.",
+      "page": 1,
+      "bbox": [
+        345.43,
+        80.43,
+        495.85,
+        91.43
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "Either participate in an internship or",
+      "page": 1,
+      "bbox": [
+        345.43,
+        66.92,
+        521.51,
+        77.93
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "design and implement a community",
+      "page": 1,
+      "bbox": [
+        345.43,
+        53.41,
+        521.54,
+        64.42
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "impact project.",
+      "page": 1,
+      "bbox": [
+        345.43,
+        39.9,
+        416.96,
+        50.91
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "●",
+      "page": 1,
+      "bbox": [
+        320.78,
+        107.44,
+        327.43,
+        118.45
+      ],
+      "type": "o",
+      "confidence": 1.0
+    },
+    {
+      "text": "●",
+      "page": 1,
+      "bbox": [
+        320.78,
+        66.92,
+        327.43,
+        77.93
+      ],
+      "type": "o",
+      "confidence": 1.0
+    }
+  ]
+}
