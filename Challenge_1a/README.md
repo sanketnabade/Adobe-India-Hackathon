@@ -83,9 +83,3 @@ The solution generates a JSON file for each processed PDF with the following str
 - Model Size: ≤ 200MB
 - No internet access required during runtime
 - CPU-only execution (no GPU required)
-
-## Limitations
-
-- English language support only
-- PDF must be text-based (not scanned images)
-- Limited support for complex layouts
